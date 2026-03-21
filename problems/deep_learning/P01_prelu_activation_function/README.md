@@ -29,3 +29,32 @@ import numpy as np
 def prelu(x, alpha=0.1):
     x = np.array(x)
     return np.where(x > 0, x, alpha * x)
+```
+
+## ▶️ Example
+
+```python
+x = [-3, -1, 0, 2, 4]
+print(prelu(x))
+```
+
+## 📊 Output
+
+```python
+[-0.3 -0.1  0.   2.   4. ]
+```
+
+## 🔍 Keywords
+
+- PReLU  
+- Parametric ReLU  
+- Activation Function  
+- Deep Learning  
+- NumPy  
+- Python  
+- Neural Networks  
+
+## 🔗 Source
+Problem ID: 98
+Title: Implement the PReLU Activation Function
+Platform: Deep-ML

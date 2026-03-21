@@ -56,4 +56,30 @@ def matrix_vector_dot(a, b):
 
     return result
 ```
+## ▶️ Example
 
+```python
+a = [[1, 2], [2, 4]]
+b = [1, 2]
+
+print(matrix_vector_dot(a, b))
+```
+
+## 📊 Output
+
+```python
+[5, 10]
+```
+
+## 🔍 Keywords
+
+- Matrix Vector Multiplication
+- Dot Product
+- Linear Algebra
+- Python
+- Machine Learning Basics  
+
+## 🔗 Source
+Problem ID: 01
+Title: Matrix-Vector Dot Product
+Platform: Deep-ML

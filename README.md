@@ -26,7 +26,7 @@
 | No | Problem | Link |
 |----|--------|------|
 | 1 | PReLU Activation Function | [View](problems/deep_learning/P01_prelu_activation_function) |
-| 2 | Fundamentals | Matrix-Vector Dot Product | [View](problems/fundamentals/P02_matrix_vector_dot_product) |
+| 2 | Matrix-Vector Dot Product | [View](problems/fundamentals/P02_matrix_vector_dot_product) |
 
 
 ---

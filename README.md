@@ -20,13 +20,19 @@
 - OpenCV
 - Firebase, Android
 - internet of things
-- 
+
+
+## 🧠 Fundamentals Problems
+
+| No | Problem | Link |
+|----|--------|------|
+| 1 | Matrix-Vector Dot Product | [View](problems/fundamentals/P01_matrix_vector_dot_product) |
+
 ## 🧠 Deep Learning Problems
 
 | No | Problem | Link |
 |----|--------|------|
 | 1 | PReLU Activation Function | [View](problems/deep_learning/P01_prelu_activation_function) |
-| 2 | Matrix-Vector Dot Product | [View](problems/fundamentals/P02_matrix_vector_dot_product) |
 
 
 ---

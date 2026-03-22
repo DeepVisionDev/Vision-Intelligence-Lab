@@ -79,3 +79,32 @@ def transpose_matrix(a):
 
  return res
 ```
+## ▶️ Example
+
+```python
+a = [[1, 2, 3], 
+     [4, 5, 6]]
+
+print(transpose_matrix(a))
+```
+
+## 📊 Output
+
+```python
+[[1, 4],
+ [2, 5],
+ [3, 6]]
+```
+
+## 🔍 Keywords
+
+- Matrix Transpose
+- Linear Algebra
+- Python
+- 2D Arrays
+- Index Manipulation  
+
+## 🔗 Source
+Problem ID: 02
+Title: Transpose of a Matrix
+Platform: Deep-ML

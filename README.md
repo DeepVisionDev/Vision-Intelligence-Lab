@@ -27,6 +27,7 @@
 | No | Problem | Link |
 |----|--------|------|
 | 1 | Matrix-Vector Dot Product | [View](problems/fundamentals/P01_matrix_vector_dot_product) |
+| 2 | Transpose of a Matrix | [View](problems/fundamentals/P02_Transpose of a Matrix) |
 
 ## 🧠 Deep Learning Problems
 

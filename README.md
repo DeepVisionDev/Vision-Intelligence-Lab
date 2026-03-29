@@ -33,6 +33,8 @@
 | 5 | Scalar Multiplication of a Matrix | [View](problems/fundamentals/P05_Scalar_Multiplication_of_a_Matrix) |
 | 6 | Calculate Eigenvalues of a Matrix | [View](problems/fundamentals/P06_Calculate_Eigenvalues_of_a_Matrix) |
 | 7 | Matrix Transformation | [View](problems/fundamentals/P07_Matrix_Transformation) |
+| 8 | Calculate 2x2 Matrix Inverse | [View](problems/fundamentals/P08_Calculate_2x2_Matrix_Inverse) |
+| 9 | Matrix times Matrix | [View](problems/fundamentals/P09_Matrix_times_Matrix) |
 
 ## 🧠 Deep Learning Problems
 

@@ -39,14 +39,14 @@ Where:
 
 ## ➕➖ Sign Pattern (Cofactor Matrix)
 
-\[
-\begin{bmatrix}
-+ & - & + & - \\
-- & + & - & + \\
-+ & - & + & - \\
-- & + & - & +
-\end{bmatrix}
-\]
+[
+
++  -  +  - 
+-  +  -  + 
++  -  +  - 
+-  +  -  +
+
+]
 
 ---
 
@@ -87,14 +87,12 @@ C_{ij} = (-1)^{i+j} M_{ij}
 
 👉 Base case:
 
-\[
-\det
-\begin{bmatrix}
-a & b \\
-c & d
-\end{bmatrix}
+[
+a  b 
+c  d
+]
 = ad - bc
-\]
+
 
 ---
 

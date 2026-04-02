@@ -39,14 +39,14 @@ Where:
 
 ## ➕➖ Sign Pattern (Cofactor Matrix)
 
-[
-
-+  -  +  - 
--  +  -  + 
-+  -  +  - 
--  +  -  +
-
-]
+\[
+\begin{bmatrix}
++ & - & + & - \\
+- & + & - & + \\
++ & - & + & - \\
+- & + & - & +
+\end{bmatrix}
+\]
 
 ---
 
@@ -87,12 +87,14 @@ C_{ij} = (-1)^{i+j} M_{ij}
 
 👉 Base case:
 
-[
-a  b 
-c  d
-]
+\[
+\det
+\begin{bmatrix}
+a & b \\
+c & d
+\end{bmatrix}
 = ad - bc
-
+\]
 
 ---
 
@@ -187,7 +189,7 @@ A = [[1, 2, 3, 4],
 
 ## 🏷️ Metadata
 
-- **Problem ID:** 13  
+- **Problem ID:** 12  
 - **Title:** Determinant of a 4×4 Matrix using Laplace's Expansion  
 - **Difficulty:** Hard  
 - **Topic:** Linear Algebra  

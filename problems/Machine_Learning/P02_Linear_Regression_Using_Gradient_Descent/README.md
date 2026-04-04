@@ -170,7 +170,7 @@ y = 1 + 2x
 
 ## 🏷️ Metadata
 
-- **Problem ID:** 14  
+- **Problem ID:** 15  
 - **Title:** Linear Regression Using Gradient Descent  
 - **Difficulty:** Easy  
 - **Topic:** Machine Learning  
